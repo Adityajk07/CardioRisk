@@ -10,7 +10,7 @@ This project is licensed under the [MIT License](LICENSE).
 This project presents a robust machine learning pipeline to predict **high-risk cardiovascular distress** based on physiological signal data (ECG, PPG, LDF). In the absence of labeled real-world data, we implement a **semi-supervised approach** by detecting outliers (potential high-risk samples) using an **ensemble of anomaly detection algorithms**. The final model is optimized using feature selection and evaluated via cross-validation.
 
 An interactive **Gradio-based GUI** demonstrates the end-to-end system — from signal upload to real-time risk prediction.
-
+(Reccomended to use synthetic data signals for ECG-PPG-LDF and create a synthetic dataset to train+test the model.)
 ---
 
 ## 🎯 Objectives
