@@ -60,3 +60,34 @@ An interactive **Gradio-based GUI** demonstrates the end-to-end system — from 
 
 ---
 
+## 6. 🛠️ Tech Stack
+
+**Languages & Libraries**  
+- Python 3.10  
+- NumPy, Pandas  
+- Scikit-learn  
+- NeuroKit2  
+- Optuna   
+- Gradio    
+- Matplotlib / Seaborn (for visualization)
+
+**Tools & Platforms**  
+- Google Colab (for training and experimentation)  
+- GitHub (version control and documentation)  
+- Google Drive (model & scaler storage)  
+- VS Code (local development)
+
+---
+
+## 7. 📬 Contact
+
+**Aditya J. Krishnan**  
+📧 Email: adityajk07@gmail.com 
+🔗 GitHub: [@Adityajk07](https://github.com/Adityajk07)  
+🌐 LinkedIn: [Aditya J. Krishnan](https://www.linkedin.com/in/aditya-jk-5a89a0359)  
+
+Feel free to reach out for collaborations, feedback, or questions related to this project!
+
+---
+
+
