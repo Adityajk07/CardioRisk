@@ -1,6 +1,8 @@
 # Cardiovascular Distress Prediction using Multimodal Signal Integration
-![Model link:](https://drive.google.com/file/d/17DnWUudXOZxj6QeVGXxoj85DzWzfkTAN/view?usp=drive_link).
-![Scaler_link:](https://drive.google.com/file/d/1vA6lx8kX6Z5sMJNvVhnlDBJcg77TWuOn/view?usp=drive_link)
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 ## 🩺 Project Overview
